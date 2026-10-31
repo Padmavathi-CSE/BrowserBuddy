@@ -1,0 +1,5 @@
+# Gemini Browser Assistant Backend
+# The server is built with Python standard library and runs with 0 external dependencies!
+# Optional packages if extending the backend:
+requests>=2.31.0
+python-dotenv>=1.0.0
