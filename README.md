@@ -1,4 +1,4 @@
-# ✦ Gemini Browser Assistant
+# BROWSER BUDDY
 
 A modern Chrome Browser Extension built with **Manifest V3** that uses **Google Gemini AI** to understand, summarize, extract key points, create Cornell-style study notes, and chat about any currently open webpage in real time.
 
